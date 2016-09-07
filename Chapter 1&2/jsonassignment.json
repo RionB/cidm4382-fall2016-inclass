@@ -1,5 +1,5 @@
- //Flap Retraction Initiation Sppeed (VFRI)
- //Final Takeoff Speed (V CLMB)
+ //Flap Retraction Initiation Speed (VFRI)
+ //Final Takeoff Speed (VCLMB)
 {
 	"weight": {
 		"18000KG": {
@@ -46,7 +46,7 @@
 		}
 	}
 }
- //Flaps 5 takeoff, VR/V2
+ //Flaps 5 takeoff - VR/V2
 {
 	"At or Below 20°C OAT": {
 		"Weight/Altitude": {
@@ -169,7 +169,7 @@
 		}
 	}
 }
- //Flaps 10 takeoff, VR/V2
+ //Flaps 10 takeoff - VR/V2
 {
 	"At or Below 20°C OAT": {
 		"Weight/Altitude": {
@@ -292,7 +292,7 @@
 		}
 	}
 }
- //Flaps 15 takeoff, VR/V2
+ //Flaps 15 takeoff - VR/V2
 {
 	"At or Below 20°C OAT": {
 		"Weight/Altitude": {

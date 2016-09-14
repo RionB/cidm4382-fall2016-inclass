@@ -26,9 +26,21 @@ git commit -m "$desc"
 git push -u origin master
 ```
 
-then install express globally<br>
+5: then install express globally<br>
 
 ```
 npm install -g express-generator
 express --css less --hogan
+```
+<br> 6 use express
+
+<br> 7: pull down mean code / clone simon's chapter
+```
+git clone -b branch_name <url>
+git clone -b chapter-04 https://github.com/simonholmes/getting-MEAN.git
+```
+cd into the cloned chapter and run: <br>
+```
+npm install
+npm start
 ```
